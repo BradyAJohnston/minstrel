@@ -18,6 +18,8 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/minstrel)](https://CRAN.R-project.org/package=minstrel)
+[![Codecov test coverage](https://codecov.io/gh/BradyAJohnston/minstrel/branch/master/graph/badge.svg)](https://app.codecov.io/gh/BradyAJohnston/minstrel?branch=master)
+[![R-CMD-check](https://github.com/BradyAJohnston/minstrel/workflows/R-CMD-check/badge.svg)](https://github.com/BradyAJohnston/minstrel/actions)
 <!-- badges: end -->
 
 The goal of minstrel is to ...
