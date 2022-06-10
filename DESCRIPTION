@@ -17,3 +17,5 @@ Imports:
     purrr,
     tibble,
     xml2
+URL: https://github.com/BradyAJohnston/minstrel
+BugReports: https://github.com/BradyAJohnston/minstrel/issues
