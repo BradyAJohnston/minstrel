@@ -1,0 +1,147 @@
+<job name="20190515 dsnDYW PEG400 FS2" crystaltrak_version="2.7.21" schema_version="1.0.0.1" Job_id="1.0.0.0" CrystalTrak_id="TBD">
+	<sourceplates>
+		<sourceplate name="20190515 dsnDYW PEG400 FS2" description="20190515 dsnDYW PEG400 FS2" plateid="19" tracking_id="9333" barcode="LA000179">
+			<stocks>
+				<stock name="Bis-Tris propane" pH="6.2" volume="1.49" vunits="ml" conc="1" cunits="M" viscosity="5" volatility="50" barcode="" comments="" count="24"/>
+				<stock name="Bis-Tris propane" pH="9" volume="910.40" vunits="ul" conc="1" cunits="M" viscosity="5" volatility="50" barcode="" comments="" count="24"/>
+				<stock name="magnesium acetate" pH="" volume="4.80" vunits="ml" conc="1" cunits="M" viscosity="3" volatility="50" barcode="" comments="" count="24"/>
+				<stock name="polyethylene glycol 400" pH="" volume="6.00" vunits="ml" conc="100" cunits="v/v" viscosity="8" volatility="50" barcode="" comments="" count="24"/>
+				<stock name="water" pH="" volume="10.80" vunits="ml" conc="100" cunits="v/v" viscosity="" volatility="" barcode="" comments="" count="24"/>
+			</stocks>
+			<plate>
+				<wells volume="1" vunits="ml">
+					<stock name="Bis-Tris propane" pH="6.2" conc="1" cunits="M" viscosity="5" volatility="50" barcode="" comments="">
+						<well name="A1" volume="64.50" vunits="ul"/>
+						<well name="A2" volume="61.70" vunits="ul"/>
+						<well name="A3" volume="60.00" vunits="ul"/>
+						<well name="A4" volume="64.50" vunits="ul"/>
+						<well name="A5" volume="61.70" vunits="ul"/>
+						<well name="A6" volume="60.00" vunits="ul"/>
+						<well name="B1" volume="64.50" vunits="ul"/>
+						<well name="B2" volume="61.70" vunits="ul"/>
+						<well name="B3" volume="60.00" vunits="ul"/>
+						<well name="B4" volume="64.50" vunits="ul"/>
+						<well name="B5" volume="61.70" vunits="ul"/>
+						<well name="B6" volume="60.00" vunits="ul"/>
+						<well name="C1" volume="64.50" vunits="ul"/>
+						<well name="C2" volume="61.70" vunits="ul"/>
+						<well name="C3" volume="60.00" vunits="ul"/>
+						<well name="C4" volume="64.50" vunits="ul"/>
+						<well name="C5" volume="61.70" vunits="ul"/>
+						<well name="C6" volume="60.00" vunits="ul"/>
+						<well name="D1" volume="64.50" vunits="ul"/>
+						<well name="D2" volume="61.70" vunits="ul"/>
+						<well name="D3" volume="60.00" vunits="ul"/>
+						<well name="D4" volume="64.50" vunits="ul"/>
+						<well name="D5" volume="61.70" vunits="ul"/>
+						<well name="D6" volume="60.00" vunits="ul"/>
+					</stock>
+					<stock name="Bis-Tris propane" pH="9" conc="1" cunits="M" viscosity="5" volatility="50" barcode="" comments="">
+						<well name="A1" volume="35.50" vunits="ul"/>
+						<well name="A2" volume="38.30" vunits="ul"/>
+						<well name="A3" volume="40.00" vunits="ul"/>
+						<well name="A4" volume="35.50" vunits="ul"/>
+						<well name="A5" volume="38.30" vunits="ul"/>
+						<well name="A6" volume="40.00" vunits="ul"/>
+						<well name="B1" volume="35.50" vunits="ul"/>
+						<well name="B2" volume="38.30" vunits="ul"/>
+						<well name="B3" volume="40.00" vunits="ul"/>
+						<well name="B4" volume="35.50" vunits="ul"/>
+						<well name="B5" volume="38.30" vunits="ul"/>
+						<well name="B6" volume="40.00" vunits="ul"/>
+						<well name="C1" volume="35.50" vunits="ul"/>
+						<well name="C2" volume="38.30" vunits="ul"/>
+						<well name="C3" volume="40.00" vunits="ul"/>
+						<well name="C4" volume="35.50" vunits="ul"/>
+						<well name="C5" volume="38.30" vunits="ul"/>
+						<well name="C6" volume="40.00" vunits="ul"/>
+						<well name="D1" volume="35.50" vunits="ul"/>
+						<well name="D2" volume="38.30" vunits="ul"/>
+						<well name="D3" volume="40.00" vunits="ul"/>
+						<well name="D4" volume="35.50" vunits="ul"/>
+						<well name="D5" volume="38.30" vunits="ul"/>
+						<well name="D6" volume="40.00" vunits="ul"/>
+					</stock>
+					<stock name="magnesium acetate" pH="" conc="1" cunits="M" viscosity="3" volatility="50" barcode="" comments="">
+						<well name="A1" volume="200.00" vunits="ul"/>
+						<well name="A2" volume="200.00" vunits="ul"/>
+						<well name="A3" volume="200.00" vunits="ul"/>
+						<well name="A4" volume="200.00" vunits="ul"/>
+						<well name="A5" volume="200.00" vunits="ul"/>
+						<well name="A6" volume="200.00" vunits="ul"/>
+						<well name="B1" volume="200.00" vunits="ul"/>
+						<well name="B2" volume="200.00" vunits="ul"/>
+						<well name="B3" volume="200.00" vunits="ul"/>
+						<well name="B4" volume="200.00" vunits="ul"/>
+						<well name="B5" volume="200.00" vunits="ul"/>
+						<well name="B6" volume="200.00" vunits="ul"/>
+						<well name="C1" volume="200.00" vunits="ul"/>
+						<well name="C2" volume="200.00" vunits="ul"/>
+						<well name="C3" volume="200.00" vunits="ul"/>
+						<well name="C4" volume="200.00" vunits="ul"/>
+						<well name="C5" volume="200.00" vunits="ul"/>
+						<well name="C6" volume="200.00" vunits="ul"/>
+						<well name="D1" volume="200.00" vunits="ul"/>
+						<well name="D2" volume="200.00" vunits="ul"/>
+						<well name="D3" volume="200.00" vunits="ul"/>
+						<well name="D4" volume="200.00" vunits="ul"/>
+						<well name="D5" volume="200.00" vunits="ul"/>
+						<well name="D6" volume="200.00" vunits="ul"/>
+					</stock>
+					<stock name="polyethylene glycol 400" pH="" conc="100" cunits="v/v" viscosity="8" volatility="50" barcode="" comments="">
+						<well name="A1" volume="220.00" vunits="ul"/>
+						<well name="A2" volume="220.00" vunits="ul"/>
+						<well name="A3" volume="220.00" vunits="ul"/>
+						<well name="A4" volume="220.00" vunits="ul"/>
+						<well name="A5" volume="220.00" vunits="ul"/>
+						<well name="A6" volume="220.00" vunits="ul"/>
+						<well name="B1" volume="240.00" vunits="ul"/>
+						<well name="B2" volume="240.00" vunits="ul"/>
+						<well name="B3" volume="240.00" vunits="ul"/>
+						<well name="B4" volume="240.00" vunits="ul"/>
+						<well name="B5" volume="240.00" vunits="ul"/>
+						<well name="B6" volume="240.00" vunits="ul"/>
+						<well name="C1" volume="260.00" vunits="ul"/>
+						<well name="C2" volume="260.00" vunits="ul"/>
+						<well name="C3" volume="260.00" vunits="ul"/>
+						<well name="C4" volume="260.00" vunits="ul"/>
+						<well name="C5" volume="260.00" vunits="ul"/>
+						<well name="C6" volume="260.00" vunits="ul"/>
+						<well name="D1" volume="280.00" vunits="ul"/>
+						<well name="D2" volume="280.00" vunits="ul"/>
+						<well name="D3" volume="280.00" vunits="ul"/>
+						<well name="D4" volume="280.00" vunits="ul"/>
+						<well name="D5" volume="280.00" vunits="ul"/>
+						<well name="D6" volume="280.00" vunits="ul"/>
+					</stock>
+					<stock name="water" pH="" conc="100" cunits="v/v" viscosity="" volatility="" barcode="" comments="">
+						<well name="A1" volume="480.00" vunits="ul"/>
+						<well name="A2" volume="480.00" vunits="ul"/>
+						<well name="A3" volume="480.00" vunits="ul"/>
+						<well name="A4" volume="480.00" vunits="ul"/>
+						<well name="A5" volume="480.00" vunits="ul"/>
+						<well name="A6" volume="480.00" vunits="ul"/>
+						<well name="B1" volume="460.00" vunits="ul"/>
+						<well name="B2" volume="460.00" vunits="ul"/>
+						<well name="B3" volume="460.00" vunits="ul"/>
+						<well name="B4" volume="460.00" vunits="ul"/>
+						<well name="B5" volume="460.00" vunits="ul"/>
+						<well name="B6" volume="460.00" vunits="ul"/>
+						<well name="C1" volume="440.00" vunits="ul"/>
+						<well name="C2" volume="440.00" vunits="ul"/>
+						<well name="C3" volume="440.00" vunits="ul"/>
+						<well name="C4" volume="440.00" vunits="ul"/>
+						<well name="C5" volume="440.00" vunits="ul"/>
+						<well name="C6" volume="440.00" vunits="ul"/>
+						<well name="D1" volume="420.00" vunits="ul"/>
+						<well name="D2" volume="420.00" vunits="ul"/>
+						<well name="D3" volume="420.00" vunits="ul"/>
+						<well name="D4" volume="420.00" vunits="ul"/>
+						<well name="D5" volume="420.00" vunits="ul"/>
+						<well name="D6" volume="420.00" vunits="ul"/>
+					</stock>
+				</wells>
+			</plate>
+		</sourceplate>
+	</sourceplates>
+</job>
